@@ -1,3 +1,7 @@
+#BBlur fast blur photo
+#by Ave851
+#https://github.com/Ave851/BBlur-fast-blur-photo
+
 from blur import BBlur
 from tkinter import * 
 from tkinter import ttk
